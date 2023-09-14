@@ -14,15 +14,17 @@ geometry: [top=1cm, bottom=1.5cm, left=1cm, right=1cm]
 ## Discontinued (UK): 1984
 ## Re-launched in France: 1984 - discontinued, 1987
 
-The Oric Atmos [1], an upgrade to the original Oric-1, is one of the lesser-known examples of the machines of the 8-Bit Computing Era.  
+Here we present an Oric Atmos[1] for your entertainment, loaded with the winning entries of the annual *10-LINE BASIC PROGRAMMING COMPETITION*[2].
 
-This computer was released originally to compete with the ZX Spectrum and Commodore C64 systems, originally in the UK - but eventually found more favourable conditions in the personal computing market in France, where its compatability with Minitel was considered beneficial, and in Eastern-bloc nations where clones (Pravetz 8D) were produced for those behind the Iron curtain who nevertheless wanted a taste of Western computing.
+The Oric Atmos is an upgrade to the original Oric-1.  This is one of the lesser-known machines of the 8-Bit Computing Era.  
+
+But yet, it persists as a retro- enthusiasts playground.
+
+This computer was released originally to compete with the ZX Spectrum and Commodore C64 systems, originally in the UK - but eventually found more favourable conditions in the personal computing market in France, where its compatability with Minitel was considered beneficial, and in Eastern-bloc nations where clones (Pravetz 8D) were produced for the many fans of the 6502 CPU.
 
 In spite of its weak performance on the market in the 80's, the Oric-1 and Atmos machines still have devoted fans in the contemporary retro-computing scene.  
 
-As a result of the love and dedication that its fans manifest, this system has been the winner of the 10-Line BASIC Programming Competition [2] for the past few years in a row - and as a personal favourite of the curator of the 8-bit exhibit, it is certain to put up a continued effort in the competition in the years to come.
-
-Here we present an Oric Atmos for your entertainment, loaded with the winning entries of the 10-Line BASIC Programming Competition.  
+This system has consistently been the winner of the *10-LINE BASIC PROGRAMMING COMPETITION* - demonstrating that, no matter how obscure the machine, someone will find a pleasing use for it...
 
 Please see additional Operating Instructions for guidance on how to use this system.
 
@@ -33,6 +35,7 @@ Links:
 
 **[2] - https://gkanold.wixsite.com/homeputerium**
 
+
 \pagenumbering{gobble}
 
 \pagebreak
@@ -40,29 +43,25 @@ Links:
 
 # Operating Instructions
 
-The Oric Atmos can be turned off and on again without harm or worry.  You can use the powerswitch for this, or you can disconnect and reconnect the "barrel connector" on the back of the machine.
+*The Oric Atmos can be turned off and on again - like all good computers should.*
 
-Once you have reset the machine, you will be presented with the "Ready" prompt, indicating that the Oric Atmos is ready for commands - you could, for example, immediately start writing BASIC instructions.
+You can use the _Power Switch_ for this, or you can disconnect and reconnect the "*barrel connector*" on the back of the machine.  **If you need _help_, ask for the Attendant.**
 
-To load some of the different entries of the 10-LINE BASIC Competition, you may issue the following command after a reset, to load a menu of the entries:
+Once you have reset the machine, you will be presented with the "**Ready**" prompt, indicating that the Oric Atmos is ready for commands - you could, for example, immediately start writing your own BASIC program.  
 
-    CLOAD"
+*To explore some of the games, type this command and then press RETURN:*
 
- .. at which point the menu will load with a number of entries from the 10-LINE BASIC Competition:
+**CLOAD"**
 
- PACMAN10 - A simple Pacman-like game.  Use the arrow keys to move around, eat the dots, and avoid the ghost!
+(Don't forget the **"** symbol!)
 
- LANDER - A moon-landing simulation - use the LEFT and RIGHT Arrow keys to thrust in those directions, and the UP Arrow key to apply thrust to your lander.  Find a flat space to land!
+Select a program from the list with the arrow keys and then press RETURN to load the game.  
 
- SNAKE - A Dungeon Crawling game - avoid the snakes, and collect the potions.  There are thousands of levels - collect all potions, with remaining HEALTH, to proceed through the level.
+Programs with names beginning with "**10**"  are entries from the *10-LINE BASIC PROGRAMMING COMPETITION*, which you can **CLOAD"**, **LIST** and **RUN** if you are *Ready*!  
 
- THRUST10 - Use the LEFT and RIGHT Arrow keys to thrust your way up the screen to the top.
+*Feel free to make modifications to the BASIC listing if you feel inspired!*
 
+There are also some other games in the list for you to explore which are not part of the *10-LINE BASIC PROGRAMMING COMPETITION* - and we will occasionally add some of the *new* games being written for the Oric, also .. 
 
-There are also some other games available, not part of the 10-LINE BASIC Competition:
+Some of the instructions you can give: **EXPLODE**, **CLOAD"**, **LIST**, **RUN**, **PAPER 0**, **INK 5**, **ZAP**, **INK 3**, **POP**, **CALL #C000**, **SHOOT**, **INK 5** ...  (&etc.)
 
-KONG - A simple "Donkey Kong clone"
-
-4KKONG - A version of the popular Game & Watch game "KONG"
-
-After loading one of the 10-LINE BASIC Competition entries, you can view the code with the LIST command - and run it with the RUN command.  Feel free to make modifications to the BASIC listing if you feel inspired!
