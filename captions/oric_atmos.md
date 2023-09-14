@@ -45,7 +45,9 @@ Links:
 
 *The Oric Atmos can be turned off and on again - like all good computers should.*
 
-You can use the _Power Switch_ for this, or you can disconnect and reconnect the "*barrel connector*" on the back of the machine.  **If you need _help_, ask for the Attendant.**
+You can use the _Power Switch_ for this, or you can disconnect and reconnect the "*barrel connector*" on the back of the machine.  
+
+**If you need _help_, ask for the Attendant.**
 
 Once you have reset the machine, you will be presented with the "**Ready**" prompt, indicating that the Oric Atmos is ready for commands - you could, for example, immediately start writing your own BASIC program.  
 
@@ -63,5 +65,5 @@ Programs with names beginning with "**10**"  are entries from the *10-LINE BASIC
 
 There are also some other games in the list for you to explore which are not part of the *10-LINE BASIC PROGRAMMING COMPETITION* - and we will occasionally add some of the *new* games being written for the Oric, also .. 
 
-Some of the instructions you can give: **EXPLODE**, **CLOAD"**, **LIST**, **RUN**, **PAPER 0**, **INK 5**, **ZAP**, **INK 3**, **POP**, **CALL #C000**, **SHOOT**, **INK 5** ...  (&etc.)
+Some interesting instructions you can give: **EXPLODE**, **CLOAD"**, **LIST**, **RUN**, **INK 5**, **PAPER 0**, **ZAP**, **INK 3**, **POP**, **CALL #C000**, **SHOOT**, **INK 2**, **PING**
 
