@@ -40,6 +40,8 @@ Links:
 
 The ZX Spectrum 128+ has been upgraded to use a USB Stick to load games, instead of the floppy disks traditionally used on original systems.
 
+**If you need _help_, ask for the Attendant.**
+
 Be sure the USB stick as provided is inserted in the system.
 
 Using the knob, you can scroll through the list of titles available on the USB stick, and when you find one you'd like to load, press the knob to select it on the USB.
