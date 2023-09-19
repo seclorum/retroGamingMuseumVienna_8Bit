@@ -13,7 +13,7 @@ geometry: [top=1cm, bottom=1.5cm, left=1cm, right=1cm]
 ## Released: 1982
 ## Discontinued (UK): 1992
 
-The ZX Spectrum [1] was one of the mostly successful-selling computers of the 8-Bit Computing Era, with schoolkids all over the UK adopting the machine for their gaming and entrtainment needs.  
+The ZX Spectrum [1] was one of the mostly successful-selling computers of the 8-Bit Computing Era, with schoolkids all over the UK adopting the machine for their gaming and entertainment needs.  
 
 It is one of the original systems of the 8-Bit Computing Era for which widespread software piracy was prevelant, as software at the time was released on Audio Cassettes which could very easily be copied.
 
